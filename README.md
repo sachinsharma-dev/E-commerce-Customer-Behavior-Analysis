@@ -48,6 +48,3 @@ This project analyzes customer activity data from an electronics e-commerce stor
 * Some products received much higher engagement than others.
 * Funnel optimization can increase revenue without increasing traffic.
 
-## Author
-
-**Sachin Sharma**
